@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # blog
 
 This application was generated using JHipster 6.1.2, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.1.2](https://www.jhipster.tech/documentation-archive/v6.1.2).
@@ -195,4 +197,9 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [jasmine]: http://jasmine.github.io/2.0/introduction.html
 [protractor]: https://angular.github.io/protractor/
 [leaflet]: http://leafletjs.com/
-[definitelytyped]: http://definitelytyped.org/
+
+# [definitelytyped]: http://definitelytyped.org/
+
+# jhipster
+
+> > > > > > > bde5abd34a7811646943ed82e5b7fb7b082a3f24
